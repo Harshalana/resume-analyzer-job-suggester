@@ -10,9 +10,5 @@ CareerCraft AI is an intelligent, full-stack resume analysis, ATS scoring, and c
 - **Custom Job Description Matcher**: Compare any target job posting to get an exact match breakdown.
 - **AI Cover Letter & Interview Generator**: Generates tailored cover letters and interview questions.
 
-## Running the Application
-```powershell
-uv run uvicorn backend.main:app --host 127.0.0.1 --port 8000 --reload
-```
-Open your browser at `http://127.0.0.1:8000`.
+
 
